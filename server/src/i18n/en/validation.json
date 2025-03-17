@@ -1,0 +1,18 @@
+{
+    "isNotEmpty": "Field cannot be empty",
+    "isString": "Must be a string",
+    "isNumber": "Must be a number",
+    "isEmail": "Invalid email format",
+    "minLength": "Minimum length is {{min}} characters",
+    "maxLength": "Maximum length is {{max}} characters",
+    "min": "Minimum value is {{min}}",
+    "max": "Maximum value is {{max}}",
+    "isEnum": "Invalid value, must be one of: {{enum}}",
+    "isBoolean": "Must be a boolean value",
+    "isDate": "Must be a valid date",
+    "isArray": "Must be an array",
+    "arrayMinSize": "Array must contain at least {{min}} elements",
+    "arrayMaxSize": "Array cannot contain more than {{max}} elements",
+    "isObject": "Must be an object",
+    "matches": "Invalid format"
+}

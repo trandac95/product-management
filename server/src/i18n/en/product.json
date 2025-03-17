@@ -1,0 +1,23 @@
+{
+    "SUCCESS": {
+        "CREATED": "Product created successfully",
+        "LIKED": "Product liked successfully",
+        "UNLIKED": "Product unliked successfully",
+        "SEARCHED": "Product searched successfully",
+        "LIST_RETRIEVED": "Product list retrieved successfully",
+        "RETRIEVED": "Product retrieved successfully",
+        "TOGGLED_LIKE": "Product like toggled successfully"
+    },
+    "ERROR": {
+        "NOT_FOUND": "Product not found",
+        "INVALID_ID": "Invalid product ID",
+        "UNAUTHORIZED": "You must be logged in to perform this action"
+    },
+    "FIELDS": {
+        "NAME": "Name",
+        "PRICE": "Price",
+        "CATEGORY": "Category",
+        "SUBCATEGORY": "Subcategory",
+        "LIKES": "Likes"
+    }
+}

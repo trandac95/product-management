@@ -1,0 +1,9 @@
+{
+    "ERROR": {
+        "NOT_FOUND": "Không tìm thấy tài nguyên",
+        "BAD_REQUEST": "Yêu cầu không hợp lệ",
+        "UNAUTHORIZED": "Không được phép truy cập",
+        "FORBIDDEN": "Truy cập bị cấm",
+        "SERVER_ERROR": "Lỗi máy chủ nội bộ"
+    }
+}

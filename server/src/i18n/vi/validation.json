@@ -1,0 +1,18 @@
+{
+    "isNotEmpty": "Trường này không được để trống",
+    "isString": "Phải là chuỗi",
+    "isNumber": "Phải là số",
+    "isEmail": "Email không hợp lệ",
+    "minLength": "Độ dài tối thiểu là {{min}} ký tự",
+    "maxLength": "Độ dài tối đa là {{max}} ký tự",
+    "min": "Giá trị tối thiểu là {{min}}",
+    "max": "Giá trị tối đa là {{max}}",
+    "isEnum": "Giá trị không hợp lệ, phải là một trong: {{enum}}",
+    "isBoolean": "Phải là giá trị boolean",
+    "isDate": "Phải là ngày hợp lệ",
+    "isArray": "Phải là mảng",
+    "arrayMinSize": "Mảng phải chứa ít nhất {{min}} phần tử",
+    "arrayMaxSize": "Mảng không được chứa quá {{max}} phần tử",
+    "isObject": "Phải là đối tượng",
+    "matches": "Định dạng không hợp lệ"
+}

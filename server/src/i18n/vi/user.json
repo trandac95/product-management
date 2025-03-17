@@ -1,0 +1,19 @@
+{
+    "SUCCESS": {
+        "CREATED": "Tạo tài khoản thành công",
+        "UPDATED": "Cập nhật tài khoản thành công",
+        "DELETED": "Xóa tài khoản thành công"
+    },
+    "ERROR": {
+        "NOT_FOUND": "Tài khoản không tồn tại",
+        "EMAIL_EXISTS": "Email đã tồn tại",
+        "INVALID_CREDENTIALS": "Mật khẩu không chính xác",
+        "UNAUTHORIZED": "Bạn không có quyền thực hiện hành động này"
+    },
+    "FIELDS": {
+        "NAME": "Tên",
+        "EMAIL": "Email",
+        "PASSWORD": "Mật khẩu",
+        "ROLE": "Vai trò"
+    }
+}
